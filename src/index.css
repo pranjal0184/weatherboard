@@ -8,7 +8,7 @@
 .app{
     min-height: 100vh;
     display:grid;
-    background: #f5a5dc;
+    background: #873fe0;
     position: relative;
 }
 .toggle{
